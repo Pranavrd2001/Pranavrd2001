@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pranav R D
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Advanced Python for Machine learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 👋 Hi, I’m Pranav R Deshkulkarni
+- 👀 I’m interested in working on different Projects and gain knowledge in various domains.
+- 🌱 I’m currently learning Advanced Java and Basics of Web Development.
+- 💞️ I’m looking to collaborate on Java Projects and looking for a Developer Role.
 - 📫 Reach me out on linkedin https://www.linkedin.com/in/pranav-r-d-198a321b4/
 
 <!---
