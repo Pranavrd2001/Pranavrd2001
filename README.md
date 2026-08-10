@@ -53,6 +53,6 @@ to **AWS KMS encryption** across 16 services, accelerated by a Claude Code skill
 
 ## Let's connect
 
-📧 krrgpranavrd2001@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](YOUR_LINKEDIN_URL) &nbsp;·&nbsp; 📍 Bangalore, India
+📧 krrgpranavrd2001@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pranav-r-d-198a321b4) &nbsp;·&nbsp; 📍 Bangalore, India
 
 > ⚠️ Most of my production code lives in a private org repo (Gainsight). The projects above are real shipped systems — happy to walk through architecture in an interview.
